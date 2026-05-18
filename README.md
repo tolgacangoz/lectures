@@ -54,6 +54,7 @@ The PMPP Book: [Programming Massively Parallel Processors: A Hands-on Approach](
 
 ## Lecture 12: Flash Attention
 - Speaker: [Thomas Viehmann](https://lernapparat.de/)
+- Code in the [lecture_012](./lecture_012/) folder
 
 ## Lecture 13: Ring Attention
 - Speaker: [Andreas Koepf](https://twitter.com/neurosp1ke)
@@ -153,31 +154,94 @@ The PMPP Book: [Programming Massively Parallel Processors: A Hands-on Approach](
 - Speaker: [Yineng Zhang](https://linkedin.com/in/zhyncs)
 - [Slides](https://github.com/zhyncs/lectures/blob/main/lecture_035/SGLang-Performance-Optimization-YinengZhang.pdf)
 
-# Lecture 36: CUTLASS and Flash ATtention 3
+## Lecture 36: CUTLASS and Flash ATtention 3
 - Speaker: [Jay Shah](https://research.colfax-intl.com/blog/)
 - [Slides](lecture_036/)
 
-# Lecture 37: Introduction to SASS & GPU Microarchitecture
+## Lecture 37: Introduction to SASS & GPU Microarchitecture
 - Speaker: [Arun Demeure](https://github.com/ademeure)
 - [Slides](lecture_037/)
 
-# Lecture 38: Lowbit kernels for ARM CPU
+## Lecture 38: Lowbit kernels for ARM CPU
 - Speaker: [Scott Roy](https://github.com/metascroy)
 - [Slides](lecture_038/)
 
-# Lecture 39: TorchTitan
+## Lecture 39: TorchTitan
 - Speaker: Mark Saroufim and Tianyu Liu
 
-# Lecture 40: Flash Infer
+## Lecture 40: Flash Infer
 - Speaker: [Zihao Ye](https://homes.cs.washington.edu/~zhye/)
 
-# Lecture 41: CUDA Docs for Humans
+## Lecture 41: CUDA Docs for Humans
 - Speaker: [Charles Frye](https://x.com/charles_irl/status/1867306225706447023)
 - [Slides](https://docs.google.com/presentation/d/15lTG6aqf72Hyk5_lqH7iSrc8aP1ElEYxCxch-tD37PE/edit#slide=id.g326210b960f_0_42)
  
-# Lecture 42: Mosaic GPU
+## Lecture 42: Mosaic GPU
 - Speaker: [Adam Paszke](https://x.com/apaszke)
 
-# Lecture 43:
+## Lecture 43:
 - Speaker: Erik Schultheis
 - [Slides](lecture_042)
+
+## Lecture 57: CuTE
+- Speaker: Cris Cecka
+- [Slides](lecture_057)
+
+## Lecture 67: NCCL & NVSHMEM
+- Speaker: Jeff Hammond
+- [Slides](https://drive.google.com/file/d/1T8uHhFIeVa_g1oYb_O4d2Ltb8YQly1zK/view?usp=sharing)
+- [Code](https://github.com/ParRes/Kernels/tree/main/Cxx11)
+
+## Lecture 69: Quartet 4 bit training
+- Speakers: Roberto Castro and Andrei Panferov
+- Code: https://github.com/IST-DASLab/Quartet and https://github.com/isT-DASLab/qutlass Roberto Castro and Andrei Panferov
+- [Paper](https://arxiv.org/abs/2505.14669)
+
+## Lecture 70: Fault tolerant communication collectives
+- Speaker: mike64_t
+- [Slides](https://docs.google.com/presentation/d/1MKB51lhNOsV-Y_hscSaJk7wZskzxft2pFJQZKyvcMyo/edit?usp=sharing)
+
+## Lecture 71: [ScaleML Series] FlexOlmo: Open Language Models for Flexible Data Use
+- Speaker: [Sewon Min](https://www.sewonmin.com)
+- [Slides](lecture_071)
+
+## Lecture 72: [ScaleML Series] Efficient & Effective Long-Context Modeling for Large Language Models
+- Speaker: [Guangxuan Xiao](https://guangxuanx.com)
+- [Slides](lecture_072)
+
+## Lecture 74: [ScaleML Series] Positional Encodings and PaTH Attention
+- Speaker: [Songlin Yang](https://sustcsonglin.github.io)
+- [Slides](lecture_074)
+
+## Lecture 75: [ScaleML Series] GPU Programming Fundamentals + ThunderKittens
+- Speaker 1: William Brandon
+  - [Slides 1](https://docs.google.com/presentation/d/1ypi4IjEF36PUZGOJSaFxjNzk7BpO61TicdTBBf77oqc/)
+- Speaker 2: [Simran Arora](https://arorasimran.com)
+  - [Slides 2](lecture_075)
+
+## Lecture 78: Iris: Multi-GPU Programming in Triton
+Speakers: Muhammad Awad, Muhammad Osama & Brandon Potter
+- [Slides](lecture_078)
+
+## Lecture 79: Mirage (MPK): Compiling LLMs into Mega Kernels
+Speakers: Mengdi Wu, Xinhao Cheng
+- [Slides](lecture_079)
+
+## Lecture 84: Numerics and AI
+Speaker: Paulius Micikevicius
+- [Slides](lecture_084)
+
+## Lecture 86: Introduction to CuTeDSL (for NVIDIA competition)
+Speaker: Vicki Wang
+- [Slides](lecture_086)
+
+## Lecture 103: Fundamentals of CuTe Layout Algebra and Category-theoretic Interpretation
+Speaker: Jack Carlisle and Jay Shah
+- [Slides](lecture_103)
+
+## Lecture 104: Gluon: Tile-Based GPU Programming with Low-Level Control
+Speakers: Peter Bell, Mario Lezcano, Keren Zhou
+- [Slides and notes](lecture_104)
+
+## Lecture 106: HF kernels
+- [Slides](https://docs.google.com/presentation/d/1RibAIrOJv0BcAx2QjNYHDZCrMfGYifTggtKT6uwv7CY/edit)
